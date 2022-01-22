@@ -1,0 +1,288 @@
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-image: url("images/bg.png");
+background-repeat: no-repeat;
+background-position: center;
+}
+p {
+position: absolute;
+bottom:75%;
+right:8%;
+left:8%;
+}
+ul {
+position:absolute;
+top:78%;
+left:40%;
+right:5%;
+}
+.topnav {
+overflow: hidden;
+background-color:#b76880;
+}
+
+.topnav a {
+float: left;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a:hover {
+background-color:white;
+color:black;
+}
+.topnav a.active {
+background-color:#6d5680;
+color:white;
+}
+#p1 {
+position: absolute;
+top: 151%;
+left: 6%;
+}
+#h1a {
+position: absolute;
+left: 20%;
+bottom: 81%;
+}
+#h3a {
+position:absolute;
+left:8%;
+top:22%;
+}
+#h3b {
+position:absolute;
+left: 26.5%;
+top:22%;
+}
+#h3c {
+position:absolute;
+left: 46.8%;
+top:22%;
+}
+#h3d {
+position:absolute;
+left:68%;
+top:22%;
+}
+#h3e {
+position:absolute;
+left:87.5%;
+top:22%;
+}
+#h3f {
+position:absolute;
+left:8%;
+top:70%;
+}
+#h3g {
+position:absolute;
+top:70%;
+left:27%;
+}
+#h3h {
+position:absolute;
+top:70%;
+left:46.8%;
+}
+#h3i {
+position:absolute;
+top:70%;
+left:66.5%;
+}
+#h3j {
+position:absolute;
+top:70%;
+left:86%;
+}
+#h3k {
+position:absolute;
+top:128%;
+left:2%;
+}
+#h3l {
+position:absolute;
+top:128%;
+left:49%;
+}
+#div1 {
+font-family:Tahoma;
+}
+#div2 {
+padding-left:20px;
+font-family:Arial;
+}
+#img1 {
+position: absolute;
+top:30%;
+left:6%;
+}
+#img2 {
+position: absolute;
+top:30%;
+left:25%;
+}
+#img3 {
+position: absolute;
+top:30%;
+left:45.5%;
+}
+#img4 {
+position: absolute;
+top:30%;
+left:66.5%;
+}
+#img5 {
+position: absolute;
+top:30%;
+left:85.5%;
+}
+#img6 {
+position: absolute;
+top:78%;
+left:6%;
+}
+#img7 {
+position: absolute;
+top:78%;
+left:25%;
+}
+#img8 {
+position: absolute;
+top:78%;
+left:45.5%;
+}
+#img9 {
+position: absolute;
+top:78%;
+left:66.5%;
+}
+#img10 {
+position: absolute;
+top:78%;
+left:85.5%;
+}
+#img11 {
+position: absolute;
+top:125%;
+left:10%;
+}
+#img12 {
+position: absolute;
+top:125%;
+left:55%;
+}
+ul {
+align="left";
+position:absolute;
+}
+#ul1 {
+left:0%;
+top:45%;
+right:80%;
+}
+#ul2 {
+left:18%;
+top:45%;
+right:59%;
+}
+#ul3 {
+left:39%;
+top:45%;
+right:40.5%;
+}
+#ul4 {
+left:58.5%;
+top:45%;
+right:21%;
+}
+#ul5 {
+left:78%;
+top:45%;
+right:2%;
+}
+#ul6 {
+left:0%;
+top:93%;
+right:80%;
+}
+#ul7 {
+left:18%;
+top:93%;
+right:59%;
+}
+#ul8 {
+left:39%;
+top:93%;
+right:40.5%;
+}
+#ul9 {
+left:58.5%;
+top:93%;
+right:21%;
+}
+#ul10 {
+left:78%;
+top:93%;
+right:2%;
+}
+#ul11 {
+left:18%;
+top:122%;
+}
+#ul12 {
+left:63%;
+top:122%;
+}
+#li {
+margin-bottom: 50px;
+}
+#navlist {
+position: absolute;
+margin-top: 33%;
+margin-bottom: 50px;
+}
+#navlist li {
+margin: 0px;
+padding: 0px;
+list-style: none;
+position: absolute;
+}
+#navlist li, #navlist a {
+height: 84px;
+display: block;
+}
+#fb {
+left: 0px;
+width: 84px;
+background: url('images/aindsi.png') 0 -84px;
+}
+#twt {
+left: 84px;
+width: 84px;
+background: url('images/aindsi.png') -672px -84px;
+}
+#yt {
+left: 164px;
+width: 84px;
+background: url('images/aindsi.png') -840px -84px;
+}
+#fb:hover {
+left: 0px;
+width: 84px;
+background: url('images/aindsi.png') 0 -168px;
+}
+#twt:hover {
+left: 84px;
+width: 84px;
+background: url('images/aindsi.png') -672px -168px;
+}
+#yt:hover {
+left: 164px;
+width: 84px;
+background: url('images/aindsi.png') -840px -168px;
+}

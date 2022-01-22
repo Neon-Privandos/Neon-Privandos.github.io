@@ -1,0 +1,144 @@
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-image: url("images/bg.png");
+background-repeat: no-repeat;
+background-position: center;
+}
+.topnav {
+overflow: hidden;
+background-color:#b76880;
+}
+.topnav a {
+float: left;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a:hover {
+background-color:white;
+color:black;
+}
+.topnav a.active {
+background-color:#6d5680;
+color:white;
+}
+img {
+position:absolute;
+align="left";
+margin-left:120px;
+margin-top:20px;
+}
+h2 {
+margin-left:100px;
+}
+hr {
+margin-right:20px;
+}
+ul {
+position:absolute;
+top:78%;
+left:40%;
+right:5%;
+}
+#div1 {
+font-family:Tahoma;
+}
+#div2 {
+padding-left:20px;
+font-family:Arial;
+}
+#a1 {
+position:absolute;
+left: 230px;
+color: white;
+}
+#p1 {
+align="justify";
+line-height: 1.7em;
+margin-top:22px;
+margin-left:350px;
+margin-right:250px;
+}
+#p2{
+position: absolute;
+top: 107%;
+left: 71.5%;
+}
+#p3 {
+position: absolute;
+top: 162%;
+left: 6%;
+}
+#navlist {
+position: absolute;
+margin-top: 38%;
+}
+#navlist li {
+margin: 0px;
+padding: 0px;
+list-style: none;
+position: absolute;
+}
+#navlist li, #navlist a {
+height: 84px;
+display: block;
+}
+#fb {
+left: 0px;
+width: 84px;
+background: url('images/aindsi.png') 0 -84px;
+}
+#twt {
+left: 84px;
+width: 84px;
+background: url('images/aindsi.png') -672px -84px;
+}
+#yt {
+left: 164px;
+width: 84px;
+background: url('images/aindsi.png') -840px -84px;
+}
+#fb:hover {
+left: 0px;
+width: 84px;
+background: url('images/aindsi.png') 0 -168px;
+}
+#twt:hover {
+left: 84px;
+width: 84px;
+background: url('images/aindsi.png') -672px -168px;
+}
+#yt:hover {
+left: 164px;
+width: 84px;
+background: url('images/aindsi.png') -840px -168px;
+}
+video {
+margin-left:25%;
+padding-bottom:15px;
+}
+#ytlist {
+left:73%;
+margin-top: 17%;
+list-style:none;
+}
+#ytlist li, #ytlist a {
+height: 96px;
+display: block;
+}
+#ytvid {
+left: 0px;
+height: 96px;
+width: 267px;
+background: url('images/ytc.png') 0 0px;
+}
+#ytvid:hover {
+left: 0px;
+height: 96px;
+width: 267px;
+background: url('images/ytc.png') -267px 0px;
+}
